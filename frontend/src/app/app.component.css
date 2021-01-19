@@ -1,0 +1,31 @@
+.content {
+  margin-left: 200px;
+  margin-top: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+  font-size: 1.8rem;
+}
+
+table {
+  line-height: 2;
+  border-collapse: collapse;
+  border: 1px solid black;
+  table-layout: auto;
+  width: 30%;
+  background-color: aliceblue;
+}
+
+th, td {
+  border-collapse: collapse;
+  border: 1px solid black;
+  table-layout: auto;
+}
+
+table tbody{
+  text-align: center;
+  line-height: 2.75;
+  margin: 1em;
+  font-size: 0.9rem;
+}
